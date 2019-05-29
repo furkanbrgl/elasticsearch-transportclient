@@ -1,0 +1,7 @@
+elastic:
+  clusterName: elasticsearch
+  host: localhost
+  port: 9300
+
+website:
+  esIndex: demoindex // dont use in code
